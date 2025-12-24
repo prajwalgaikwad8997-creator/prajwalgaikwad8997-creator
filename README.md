@@ -24,14 +24,6 @@ Currently focusing on strengthening my fundamentals and working on academic as w
 ## 📚 Currently Learning 
 - Web Development  
   
-
----
-
-## 📂 Projects
-- 🌐 Website Development Projects  
-- 📊 Academic & Mini Projects  
-- 🧠 Problem Solving Programs  
-
 ---
 
 ## 🎯 Career Goal
