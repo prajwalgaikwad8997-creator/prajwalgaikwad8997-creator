@@ -32,9 +32,8 @@ To become a skilled software developer and work on real-world projects that make
 ---
 
 ## 📫 Contact Me
-- 📧 Email: your-email@example.com  
-- 💼 GitHub: https://github.com/your-username  
-
+- 📧 Email: Prajwalgaikwad8997@gmail.com
+- 💼 GitHub: https://github.com/prajwalgaikwad8997-creator
 ---
 
 ⭐ *Thank you for visiting my profile!* ⭐
